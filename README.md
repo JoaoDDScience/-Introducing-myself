@@ -7,6 +7,8 @@ Eu sou formado em Engenharia e busco entrar no mercado de trabalho como cientist
 [R](https://www.r-project.org/)
 <br />
 
+[RStudio](https://www.rstudio.com/)
+<br />
 
 [Python](https://www.python.org/)
 <br />
